@@ -30,7 +30,8 @@ public class Compra {
         
          System.out.println("Valor do desconto: " + compra.getDesconto());
          System.out.println("Valor a pagar:     " + compra.getTotal());
-         
+         System.out.println("anapaula: ");
+          System.out.println("anapaula: ");
         
     }   
 
